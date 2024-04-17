@@ -11,3 +11,4 @@ This is the verification interface for the decentralized certificate verificatio
   serve -s <git-folder>
 ```
 Where `<git-folder>` is the name of the GitHub repository root folder
+In our case it is `CVS_Verification_Interface`
