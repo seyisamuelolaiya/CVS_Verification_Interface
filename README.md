@@ -4,7 +4,9 @@ This is the verification interface for the decentralized certificate verificatio
 ## How to download
 - Clone the repository
 - Intsall NodeJS
-- run ```bash
+
+### Run commands
+```bash
   npm install -g serve
   serve -s <git-folder>
 ```
