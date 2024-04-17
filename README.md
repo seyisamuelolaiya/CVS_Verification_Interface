@@ -10,4 +10,4 @@ This is the verification interface for the decentralized certificate verificatio
   npm install -g serve
   serve -s <git-folder>
 ```
-<git-folder> is the name of the GitHub repository root folder
+Where `<git-folder>` is the name of the GitHub repository root folder
