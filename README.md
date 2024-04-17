@@ -5,7 +5,7 @@ This is the verification interface for the decentralized certificate verificatio
 - Clone the repository
 - Intsall NodeJS
 
-### Run commands
+### Run this commands in a terminal containing the repository root folder
 ```bash
   npm install -g serve
   serve -s <git-folder>
